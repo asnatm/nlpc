@@ -1,4 +1,4 @@
-911/NUM Nobel/NOUN Laureates/NOUN Awarded/VERB for/ADP ``/. the/DET Greatest/ADJ Benefit/NOUN to/PRT Mankind/NOUN ''/. Between/ADP 1901/NUM and/CONJ 2016/NUM the/DET Nobel/NOUN Prizes/NOUN and/CONJ the/DET Prize/NOUN in/ADP Economic/ADJ Sciences/NOUN were/VERB awarded/VERB 579/NUM times/NOUN to/PRT 911/NUM people/NOUN and/CONJ organizations/NOUN ./.
+911/NUM Nobel/NOUN Laureates/NOUN Awarded/VERB for/ADP ``/. the/DET Greatest/ADJ Benefit/NOUN to/ADP Mankind/NOUN ''/. Between/ADP 1901/NUM and/CONJ 2016/NUM the/DET Nobel/NOUN Prizes/NOUN and/CONJ the/DET Prize/NOUN in/ADP Economic/ADJ Sciences/NOUN were/VERB awarded/VERB 579/NUM times/NOUN to/ADP 911/NUM people/NOUN and/CONJ organizations/NOUN ./.
 
 The/DET Nobel/NOUN Prize/NOUN is/VERB an/DET international/ADJ award/NOUN administered/VERB by/ADP the/DET Nobel/NOUN Foundation/NOUN in/ADP Stockholm/NOUN Sweden/NOUN and/CONJ based/VERB on/ADP the/DET fortune/NOUN of/ADP Alfred/NOUN Nobel/NOUN Swedish/ADJ inventor/NOUN and/CONJ entrepreneur/NOUN ./.
 
