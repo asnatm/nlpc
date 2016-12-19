@@ -1,0 +1,40 @@
+911/NUM Nobel/NOUN Laureates/NOUN Awarded/VERB for/ADP ``/. the/DET Greatest/ADJ Benefit/NOUN to/ADP Mankind/NOUN ''/. Between/ADP 1901/NUM and/CONJ 2016/NUM the/DET Nobel/NOUN Prizes/NOUN and/CONJ the/DET Prize/NOUN in/ADP Economic/ADJ Sciences/NOUN were/VERB awarded/VERB 579/NUM times/NOUN to/ADP 911/NUM people/NOUN and/CONJ organizations/NOUN ./.
+
+The/DET Nobel/NOUN Prize/NOUN is/VERB an/DET international/ADJ award/NOUN administered/VERB by/ADP the/DET Nobel/NOUN Foundation/NOUN in/ADP Stockholm/NOUN Sweden/NOUN and/CONJ based/VERB on/ADP the/DET fortune/NOUN of/ADP Alfred/NOUN Nobel/NOUN Swedish/ADJ inventor/NOUN and/CONJ entrepreneur/NOUN ./.
+
+In/ADP 1968/NUM Sveriges/NOUN Riksbank/NOUN established/VERB The/DET Sveriges/NOUN Riksbank/NOUN Prize/NOUN in/ADP Economic/ADJ Sciences/NOUN in/ADP Memory/NOUN of/ADP Alfred/NOUN Nobel/NOUN founder/NOUN of/ADP the/DET Nobel/NOUN Prize/NOUN ./.
+
+Each/DET Prize/NOUN consists/VERB of/ADP a/DET medal/NOUN a/DET personal/ADJ diploma/NOUN and/CONJ a/DET cash/NOUN award/NOUN ./.
+
+A/DET person/NOUN or/CONJ organization/NOUN awarded/VERB the/DET Nobel/NOUN Prize/NOUN is/VERB called/VERB Nobel/NOUN Laureate/NOUN ./.
+
+The/DET word/NOUN ``/. laureate/ADJ ''/. refers/VERB to/PRT being/VERB signified/VERB by/ADP the/DET laurel/NOUN wreath/NOUN ./.
+
+In/ADP ancient/ADJ Greece/NOUN laurel/NOUN wreaths/NOUN were/VERB awarded/VERB to/PRT victors/NOUN as/ADP a/DET sign/NOUN of/ADP honor/NOUN ./.
+
+The/DET Sveriges/NOUN Riksbank/NOUN Prize/NOUN in/ADP Economic/ADJ Sciences/NOUN in/ADP Memory/NOUN of/ADP Alfred/NOUN Nobel/NOUN 11/NUM New/ADJ Nobel/NOUN Laureates/NOUN 11/NUM persons/NOUN were/VERB awarded/VERB in/ADP 2016/NUM ./.
+
+There/PRT are/VERB now/ADV three/NUM new/ADJ Nobel/NOUN Laureates/NOUN in/ADP Physics/NOUN three/NUM in/ADP Chemistry/NOUN on/ADP in/ADP Physiology/NOUN or/CONJ Medicine/NOUN one/NUM in/ADP Literature/NOUN one/NUM in/ADP Peace/NOUN and/CONJ two/NUM new/ADJ Laureates/NOUN in/ADP Economic/ADJ Sciences/NOUN ./.
+
+See/VERB a/DET short/ADJ presentation/NOUN of/ADP them/PRON here/ADV ./.
+
+The/DET Nobel/NOUN Prize/NOUN (/. /nobl/Swedish/NOUN pronunciation/NOUN :/. [/. nbl/NOUN ]/. ;/. Swedish/ADJ definite/ADJ form/NOUN singular/ADJ :/. Nobelpriset/NOUN ;/. Norwegian/ADJ :/. Nobelprisen/NOUN )/. is/VERB a/DET set/NOUN of/ADP annual/ADJ international/ADJ awards/NOUN bestowed/VERB in/ADP a/DET number/NOUN of/ADP categories/NOUN by/ADP Swedish/ADJ and/CONJ Norwegian/ADJ institutions/NOUN in/ADP recognition/NOUN of/ADP academic/ADJ cultural/ADJ and/or/CONJ scientific/ADJ advances/NOUN ./.
+
+The/DET will/VERB of/ADP the/DET Swedish/ADJ inventor/NOUN Alfred/NOUN Nobel/NOUN established/VERB the/DET prizes/NOUN in/ADP 1895/NUM ./.
+
+The/DET prizes/NOUN in/ADP ChemistryLiteraturePeacePhysics/NOUN and/CONJ Physiology/NOUN or/CONJ Medicine/NOUN were/VERB first/ADV awarded/VERB in/ADP 1901/NUM ./.
+
+[/. 1/NUM ]/. Medals/NOUN made/VERB before/ADP 1980/NUM were/VERB struck/VERB in/ADP 23/NUM carat/NOUN gold/NOUN and/CONJ later/ADV from/ADP 18/NUM carat/NOUN green/ADJ gold/NOUN plated/VERB with/ADP a/DET 24/NUM carat/NOUN gold/NOUN coating/VERB ./.
+
+Between/ADP 1901/NUM and/CONJ 2015/NUM the/DET Nobel/NOUN Prizes/NOUN and/CONJ the/DET Prize/NOUN in/ADP Economic/ADJ Sciences/NOUN were/VERB awarded/VERB 573/NUM times/NOUN to/ADP 900/NUM people/NOUN and/CONJ organisations/NOUN ./.
+
+With/ADP some/DET receiving/VERB the/DET Nobel/NOUN Prize/NOUN more/ADV than/ADP once/ADV this/DET makes/VERB a/DET total/NOUN of/ADP 23/NUM organisations/NOUN and/CONJ 870/NUM individualsof/NOUN whom/PRON 48/NUM were/VERB women/NOUN ./.
+
+[/. 2/NUM ]/. The/DET prize/NOUN ceremonies/NOUN take/VERB place/NOUN annually/ADV in/ADP StockholmSweden/NOUN (/. with/ADP the/DET exception/NOUN of/ADP the/DET peace/NOUN prize/NOUN which/DET is/VERB held/VERB in/ADP OsloNorway/NOUN )/. ./.
+
+Each/DET recipient/NOUN or/CONJ laureate/ADJ receives/VERB a/DET gold/ADJ medal/NOUN a/DET diploma/NOUN and/CONJ a/DET sum/NOUN of/ADP money/NOUN that/PRON has/VERB been/VERB decided/VERB by/ADP the/DET Nobel/NOUN Foundation/NOUN ./.
+
+(/. As/ADP of/ADP 2012/NUM [/. update/VERB ]/. each/DET prize/NOUN was/VERB worth/ADJ SEK/NOUN 8/NUM million/NUM or/CONJ about/ADV US/NOUN $/NOUN 1.2/NUM million/NUM 0.93/NUM million/NUM or/CONJ 0.6/NUM million/NUM ./. )/.
+
+The/DET Nobel/NOUN Prize/NOUN is/VERB widely/ADV regarded/VERB as/ADP the/DET most/ADV prestigious/NOUN award/NOUN available/ADJ in/ADP the/DET fields/NOUN of/ADP literature/NOUN medicine/NOUN physics/NOUN chemistry/NOUN peace/NOUN and/CONJ economics/NOUN ./.
+
